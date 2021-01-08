@@ -10,6 +10,5 @@ public class thuchanhtoantu {
         System.out.println();
         height = scanner.nextFloat("Enter height : ");
 
-
     }
 }
