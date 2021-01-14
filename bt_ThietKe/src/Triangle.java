@@ -47,6 +47,6 @@ class TriangleTest{
         scanner.nextLine();
         System.out.println("nhap color");
         triangle.color = scanner.nextLine();
-
+        System.out.println(triangle);
     }
 }
